@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPDemoApp", "RPDemoApp\RPDemoApp.csproj", "{73868FDA-F52C-4BD6-ABEA-98625EA0EE27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPDemoApp", "RPDemoApp\RPDemoApp.csproj", "{73868FDA-F52C-4BD6-ABEA-98625EA0EE27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
